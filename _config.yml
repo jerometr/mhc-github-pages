@@ -40,6 +40,7 @@ remote_theme: "mmistakes/minimal-mistakes@4.27.3"
 #
 exclude:
   - README.md
+  - vendor
 
 logo: "/assets/images/Logo_MHC.jpg"
 
