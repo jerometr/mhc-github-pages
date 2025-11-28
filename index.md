@@ -49,3 +49,8 @@ Passionné d'ultra trail et de kitesurf<br>
 Mari heureux et père de 4 merveilleux garçons
 </div>
 {: .text-center}
+
+## Devenir coach santé ?
+
+[![IIN](./assets/images/IIN.webp)](https://sldr.page.link/6XUm)
+{: .text-center}
