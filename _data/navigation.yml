@@ -1,0 +1,7 @@
+main:
+  - title: "Votre santé"
+    url: "/#votre-sante"
+  - title: "Notre chemin ensemble"
+    url: "/#ma-proposition"
+  - title: "Qui suis-je ?"
+    url: "/#qui-suis-je"

@@ -1,0 +1,47 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+search: false
+---
+
+@charset "utf-8";
+
+@import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
+@import "minimal-mistakes"; // main partials
+
+/* Everything below this line is custom */
+
+/* Center title, lead, meta and caption text */
+.page__hero--overlay .page__title,
+.page__hero--overlay .page__lead,
+.page__hero--overlay .page__meta,
+.page__hero--overlay .page__hero-caption {
+  text-align: center;
+}
+/* Center lead text */
+.page__hero--overlay .page__lead {
+  margin-left: auto;
+  margin-right: auto;
+}
+/* Increase padding for overlay hero to better display full image */
+.page__hero--overlay {
+    padding-bottom: 30em;
+}
+
+/* Center titles */
+.page__content h2 {
+  text-align: center;
+}
+
+/* Remove feature row bottom border and spacing */
+.page__content .feature__wrapper {
+  border-bottom: none;
+  margin-bottom: 0;
+}
+.page__content .archive__item-teaser {
+  margin-bottom: 0;
+}
+
+/* Reduce CV text size, cf. https://mmistakes.github.io/minimal-mistakes/docs/stylesheets/#type-scale */
+.cv {
+    font-size: $type-size-6;
+}
