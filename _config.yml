@@ -48,7 +48,6 @@ author:
   name             : "Jérôme Triomphe"
   avatar           : "/assets/images/Jérôme Kitesurf Boracay.webp"
   bio              : "Integrative Nutrition Health Coach"
-  location         : "France"
   links:
     - label: "Email"
       icon: "fa-solid fa-envelope"
