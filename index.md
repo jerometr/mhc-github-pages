@@ -2,7 +2,7 @@
 layout: single
 
 header:
-    overlay_image: "/assets/images/Paysage Mongolie.jpg"
+    overlay_image: "/assets/images/Paysage Mongolie.webp"
     overlay_filter: 0.1
 title: "Mon Health Coach"
 tagline: "Un accompagnement individualisé<br>pour votre santé,<br>qui vous écoute, vous soutient, vous guide<br>vers des changements durables..."
@@ -10,7 +10,7 @@ tagline: "Un accompagnement individualisé<br>pour votre santé,<br>qui vous éc
 author_profile: true
 
 feature_row:
-    - image_path: "/assets/images/20160810_020907.jpg"
+    - image_path: "/assets/images/20160810_020907_phlnte.webp"
       excerpt: >-
         Un accompagnement jalonné d'entretiens réguliers, sur plusieurs mois<br>
         \... pour inscrire les changements dans la durée.<br><br>
