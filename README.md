@@ -38,7 +38,7 @@ bundle exec jekyll serve --watch --incremental --livereload
 
 > Note : Seules les modifications des fichiers source (`*.md` ou `.html`) déclenchent une recompilation.
 > Pour forcer une recompilation, il suffit donc de sauvegarder (même sans modifications) un fichier source.
->
+
 > Attention ! Les modifications du fichier `_config.yml` nécessitent de relancer la commande ci-dessus (`bundle exec ...`).
 
 ### Modifier le site
