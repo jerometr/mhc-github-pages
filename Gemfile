@@ -19,7 +19,7 @@ group :jekyll_plugins do
   # Version taken from https://pages.github.com/versions.json
   gem "github-pages", "~> 232"
   # https://github.com/benbalter/jekyll-include-cache
-  gem "jekyll-include-cache", "~> 0.2.1"
+  gem "jekyll-include-cache", "~> 0.3.0"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
