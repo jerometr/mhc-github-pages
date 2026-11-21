@@ -17,7 +17,7 @@ source "https://rubygems.org"
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   # Version taken from https://pages.github.com/versions.json
-  gem "github-pages", "~> 232"
+  gem "github-pages", "~> 233"
   # https://github.com/benbalter/jekyll-include-cache
   gem "jekyll-include-cache", "~> 0.2.1"
 end
